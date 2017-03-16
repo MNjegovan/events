@@ -20,7 +20,7 @@ function funk3() {
     alert("pritisak")
 }
 function funk4(){
-    alert("debilu slomio si svemir")
+    alert("d")
 }
 function funk5(){
     alert("loadalo se")
